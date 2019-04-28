@@ -1,0 +1,23 @@
+{
+	"resultado": {
+		 "data": [ {
+		"active":1,
+		"description": "SINDICALIZADO",
+		"typeContractId": 1,
+	},
+		{
+		"active":1,
+		"description": "JUBILADO",
+		"typeContractId": 2
+	},
+		{
+		"active":1,
+		"description": "EVENTUAL",
+		"typeContractId": 3
+	}
+
+	],
+
+ 	"codeHttpStatus" : 200
+	}
+}
